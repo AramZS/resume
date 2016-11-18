@@ -53,7 +53,7 @@
 					<h4 class="section-title">Skills:</h4>
 				</div>
 				<div class="ten columns">
-					<p><b>PHP</b>, <b>MySQL</b>, <b>HTML5</b>, <b>CSS3</b>, <b>jQuery</b>, <b>SASS</b>, <b>Adobe Creative Suite</b>, <b>WordPress</b>, WordPressMS, MailChimp, Google AdWords, <b>Google Analytics</b>, OpenX, <b>SEO</b>, <b>Social Media Optimization</b>, Responsive Design, Convergent media, <b>AP Style</b>, Drupal, Blogger, QuarkXPress, Audacity, CoverItLive, Livestream.com, TextPattern, Prezi, Omeka, <b>Git</b>, <b>Usability</b>, UX Testing</p>
+					<p><b>PHP</b>, <b>MySQL</b>, <b>HTML5</b>, <b>CSS3</b>, <b>React</b>, WebPack, <b>JavaScript</b>, REST, Reflux, Node, <b>SASS</b>, <b>Adobe Creative Suite</b>, Ad Tech, <b>WordPress</b>, WordPressMS, Digital Archiving, MailChimp, Google AdWords, <b>Google Analytics</b>, Omniture, OpenX, <b>SEO</b>, <b>Social Media Optimization</b>, Responsive Design, Convergent media, <b>AP Style</b>, Drupal, QuarkXPress, Audacity, Facebook Live, Livestream.com, TextPattern, Prezi, Omeka, <b>Git</b>, Kanban, Scrum, <b>Usability</b>, UX Testing</p>
 				</div>
 			</div>
 
@@ -77,8 +77,10 @@
 							<li>Launched significant upgrade to backend Content Management System.</li>
 							<li>Rebuilt front end theme to be fully responsive.</li>
 							<li>Worked to optimize and launch ad code.</li>
+							<li>Build custom platfrom-agnostic video viewer tool</li>
 							<li>Rebuilt metadata and on-page tools to fully comply with social media platforms</li>
 							<li>Worked closely with editorial and product to find and build out tools and workflow optimizations</li>
+							<li>Built out significant custom analytics for A/B testing, video and general KPIs.</li>
 							<li>Built Gulp-based workflow for using SASS and JSX across the entire organization.</li>
 							<li>Worked with PHP, WordPress, MySQL, Javascript, Node, YUI, React, Reflux, and Node</li>
 						</ul>
@@ -95,7 +97,14 @@
 						<p><span class="jobtitle">Content Strategist</span></p>
 						<ul class="jobaccomp">
 							<li>Works with all divisions to improve overall web presence by leveraging new technology, user experience data and narrative design.</li>
-                            <li>Launched multiple projects, including a new website and two open-source WordPress plugins.</li>
+							    <li>Project manager on the launch of a new, fully responsive, WordPress-based website.</li>
+							    <li>Developed and open-sourced a plugin to provide advanced metrics through Google Analytics, including viewability and seconds engaged.</li>
+							    <li>Developed and open-sourced community-building plugin Response Stack.</li>
+							    <li>Trained journalists and marketing staff in content development and SEO techniques.</li>
+							    <li>Worked to optimize the digital sales channel.</li>
+							    <li>Tested, deployed and designed tools to increase engagement and create a more positive user experience.</li>
+							    <li>Worked with developers, sales and audience development units to craft Native Ads and supporting technology.</li>
+							<li>Launched video channel.</li>
 						</ul>
 					</div>
 
@@ -133,6 +142,7 @@
 							<li>Pitch, write and publish articles covering video games, game design and narrative design.</li>
 							<li>Design, maintain, create modifications and add new options for the website's WordPress theme.</li>
 							<li>Optimized website for search engines and social media. Provided tools for authors and editors to continually maximize that optimization.</li>
+							<li>Edited work by other writers.</li>
 						</ul>
 					</div>
 
@@ -180,6 +190,7 @@
 						<ul class="jobaccomp">
 							<li>Optimized the UPIU brand's social media presence.</li>
 							<li>Grew UPIU visibility in the college media space.</li>
+							<li>Trained college journalists in digital techniques.</li>
 							<li>Increased traffic significantly, resulting in the launch of advertising products on the main website.</li>
 							<li>Proposed, launched and managed a blog as part of an effort to increase brand transparency, promote content and join the discourse in the college media space.</li>
 						</ul>
@@ -245,7 +256,7 @@
 							<li>Managed all writing- and text-focused projects.</li>
 							<li>Managed content for associated projects from a team, located all over the world, ranging in age from 15 to 32.</li>
 							<li>Oversaw and maintained all textual content for the project.</li>
-							<li>Managed a community of interested consumers and participants, insuring all contributions met project standards.</li>
+							<li>Managed a large international community of interested consumers and participants, insuring all contributions met project standards.</li>
 							<li>Collaborated with the Art Lead, Project Leads and Lead Developer.</li>
 						</ul>
 					</div>
@@ -281,7 +292,7 @@
 					<h4 class="section-title">Projects:</h4>
 				</div>
 				<div class="ten columns">
-					<p>PressForward; CFO Responsive Website; Response Stack; WP-Advanced Google Analytics; Twitter Archival Shortcode plugin, http://hacktext.com, http://aramzs.me, Thematic Nightmare theme, P2 for Kindle theme.</p>
+					<p>Readability PHP Library, PressForward; CFO Responsive Website; Response Stack; WP-Advanced Google Analytics; Twitter Archival Shortcode plugin, http://hacktext.com, http://aramzs.me, Thematic Nightmare theme, P2 for Kindle theme.</p>
 					<p class="present"><span class="item-title">Selected Presentations:</span> White Space and Responsive Web Design; SEO101 for Journalists; SEO201 for Journalists; 50 free tools for journalists; Brand.me: Using social media to brand yourself and your newsroom; Narrative Design in Games and the Classroom; Mobile Use in Higher Ed; Using blogging in your news organization.</p>
 					<p><span class="item-title">Appearances:</span> <i>Twitterville</i>, Hillel.org, FOX5, The Atlantic Online, The Chronicle of Higher Education online, WordCamp, CoPress, THATCamp, DC Media Makers, College Media Association NYC Conference: 2012 and 2011.</p>
 				</div>
