@@ -154,3 +154,18 @@ p {
 	margin-bottom: 10px;
 
 }
+
+ul ul {
+	margin-block-start: .5em;
+	margin-block-end: .5em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	padding-inline-start: 20px;
+}
+
+ul ul li {
+	margin-bottom: 6px;
+	display: list-item;
+	list-style-type: circle;
+
+}
