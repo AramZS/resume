@@ -4,5 +4,8 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+	],
+	"cSpell.words": [
+		"anonymization"
+	]
 }
